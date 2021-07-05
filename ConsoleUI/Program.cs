@@ -12,7 +12,7 @@ namespace ConsoleUI
         {
             //ProductTest();
             //CategoryTest();
-            //ProductAddTest();
+            ProductAddTest();
         }
 
         private static void ProductAddTest()
