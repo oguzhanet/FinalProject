@@ -41,7 +41,6 @@ namespace WebAPI
             //services.AddSingleton<IProductService,ProductManager>();
             //services.AddSingleton<IProductDal, EfProductDal>();
             //services.AddSingleton<IEmployeeService, EmployeeManager>();
-            //services.AddSingleton<IEmployeeDal, EfEmployeeDal>();
 
             services.AddCors();
 
